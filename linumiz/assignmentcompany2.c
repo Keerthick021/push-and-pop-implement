@@ -1,8 +1,6 @@
 /*Name : keerthick vasa M
-Date :
-description :
-Sample input :
-Sample output :
+Date : 03/07/2024
+description :push and pop inmplement
  */
 #include <stdio.h>
 #include <unistd.h>
